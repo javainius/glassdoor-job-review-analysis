@@ -1,0 +1,207 @@
+Top 100 n-grams in cons_optimized:
+normalized
+life work                  45582
+balance life               44851
+balance life work          43019
+hour long                  41270
+low pay                    14351
+low salary                 12941
+hour work                   9653
+management senior           9582
+management poor             8615
+hard work                   6978
+management upper            6242
+busy season                 6229
+bad management              5661
+career progression          5410
+environment work            5046
+customer rude               4433
+career growth               4413
+hour long work              4360
+hour week                   4316
+long time                   4288
+load work                   4097
+high turnover               4019
+long term                   4008
+time work                   3885
+growth opportunity          3876
+red tape                    3862
+management middle           3629
+poor work                   3569
+management team             3513
+hour time                   3441
+day hour                    3437
+manager senior              3416
+pressure work               3341
+hour working                3263
+level management            3228
+minimum wage                3147
+high pressure               3078
+management people           3050
+long work                   2999
+career opportunity          2976
+employee management         2879
+customer service            2864
+growth slow                 2860
+office politic              2845
+pay poor                    2773
+life poor work              2752
+career path                 2701
+culture work                2684
+high level                  2633
+busy hour                   2595
+hour shift                  2546
+people work                 2519
+hike salary                 2494
+day                         2490
+existent non                2480
+member team                 2454
+management staff            2426
+member staff                2408
+level low                   2407
+career development          2406
+decision making             2403
+increase salary             2375
+management time             2338
+busy hour season            2303
+balance work                2296
+high management             2265
+job people                  2264
+bad work                    2262
+manager people              2227
+hour low                    2204
+job security                2184
+competitive salary          2115
+expectation high            2101
+performance review          2087
+bad manager                 2054
+advancement opportunity     2020
+bad pay                     1994
+day work                    1981
+hour pay                    1976
+internal politic            1936
+lack management             1930
+staff turnover              1926
+repetitive work             1913
+people time                 1907
+great pay                   1892
+job time                    1866
+communication lack          1866
+life personal               1862
+manager team                1861
+high salary                 1853
+compensation low            1838
+busy time                   1827
+bad hour                    1818
+time                        1818
+co worker                   1815
+employee time               1801
+day week                    1791
+advancement career          1787
+low wage                    1785
+leader team                 1765
+Sum of counts of top 100 cons n-grams: 489596
+
+Top 100 n-grams in pros_optimized:
+normalized
+balance life               58128
+life work                  56239
+balance life work          54665
+great people               36755
+benefit great              29939
+environment work           22103
+culture work               16772
+great work                 15664
+culture great              15315
+nice people                14029
+people smart               13247
+great team                 12451
+flexible hour              12430
+great opportunity          10667
+environment great          10341
+co worker                   9376
+flexible work               9184
+flexible working            9024
+environment working         8325
+career opportunity          8098
+great pay                   7706
+food free                   7690
+home work                   7397
+growth opportunity          7026
+environment friendly        6653
+benefit pay                 6577
+friendly staff              6545
+friendly people             6347
+great life work             6032
+culture people              5767
+experience great            5583
+colleague great             5518
+great training              5502
+benefit salary              5415
+interesting work            5146
+decent pay                  4969
+career great                4834
+hour working                4786
+hour work                   4779
+benefit employee            4716
+flexible schedule           4589
+team work                   4445
+environment nice            4396
+discount staff              4291
+opportunity training        4228
+development opportunity     4129
+benefit package             4076
+easy job                    3937
+great management            3921
+people work                 3847
+great learning              3824
+benefit work                3791
+employee friendly           3772
+benefit excellent           3734
+career development          3727
+balance work                3706
+nice office                 3700
+member team                 3642
+environment great work      3626
+career progression          3561
+career growth               3550
+great job                   3548
+amazing people              3472
+competitive salary          3470
+great product               3459
+benefit people              3450
+flexibility work            3415
+easy work                   3391
+opportunity people          3388
+great staff                 3349
+colleague friendly          3341
+great                       3332
+job security                3293
+interesting project         3287
+atmosphere great            3260
+balance great               3230
+customer service            3179
+management senior           3151
+flexible hour working       3135
+management team             3132
+colleague nice              3132
+balance great life          3085
+environment people          3052
+benefit decent              3040
+employee great              3031
+learning opportunity        3003
+environment team            2936
+benefit health              2922
+nice work                   2912
+brand great                 2873
+great salary                2856
+culture great work          2828
+different opportunity       2819
+career path                 2801
+people talented             2799
+new technology              2765
+people team                 2684
+exposure great              2679
+great perk                  2628
+schedule work               2613
+Sum of counts of top 100 pros n-grams: 744972
