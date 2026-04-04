@@ -1,76 +1,136 @@
 {
     "theme_map_cons": {
-      "Work-Life Balance & Working Hours": [
-        "life work", "balance life", "balance life work", "hour long", "hour work", 
-        "busy season", "hour long work", "hour week", "long time", "load work", 
-        "time work", "hour time", "long term", "day hour", "hour working", 
-        "long work", "life poor work", "busy hour", "hour shift", "busy hour season", 
-        "balance work", "bad hour", "busy time", "life personal", "day week"
-      ],
-      "Salary & Compensation": [
-        "low pay", "low salary", "minimum wage", "pay poor", "hike salary", 
-        "increase salary", "hour low", "competitive salary", "bad pay", "hour pay", 
-        "high salary", "compensation low", "low wage"
-      ],
-      "Management & Leadership": [
-        "management senior", "management poor", "management upper", "bad management", 
-        "management middle", "management team", "manager senior", "level management", 
-        "management people", "employee management", "high management", "manager people", 
-        "bad manager", "lack management", "manager team", "leader team", "decision making",
-        "management staff"
-      ],
-      "Career & Growth": [
-        "career progression", "career growth", "growth opportunity", "career opportunity", 
-        "growth slow", "career path", "career development", 
-        "advancement opportunity", "advancement career"
-      ],
-      "Workplace Culture & Environment": [
-        "environment work", "customer rude", "high turnover", "red tape", "poor work", 
-        "office politic", "culture work", "people work", "internal politic", 
-        "staff turnover", "communication lack", "expectation high", "management time",
-        "performance review", "job security", "job people", "member staff",
-        "existent non", "member team", "member staff", "hard work"
-      ]
-    },
+    "Work-Life Balance & Working Hours": [
+      "life work", "balance life", "balance life work", "hour long", "hour work", 
+      "busy season", "hour long work", "hour week", "long time", "load work", 
+      "time work", "hour time", "day hour", "hour working", 
+      "long work", "life poor work", "busy hour", "hour shift", "busy hour season", 
+      "balance work", "life personal",
+      "extra hour", "long shift", "late night", "night shift", "hour weekend",
+      "weekend work", "hour overtime", "hour long time", "contract hour",
+      "bad life work", "lack life work", "difficult life work",
+      "hour life work", "busy hour long", "balance difficult",
+      "balance difficult life"
+    ],
+    "Salary & Compensation": [
+      "low pay", "low salary", "minimum wage", "pay poor", "hike salary", 
+      "increase salary", "hour low", "competitive salary", "bad pay", "hour pay", 
+      "high salary", "compensation low", "low wage", "poor salary", "pay work",
+      "market salary", "average pay", "average salary", "high pay", "pay rise",
+      "little pay", "bonus salary", "increase pay", "bonus low", "salary work",
+      "pay scale", "pay rate", "base salary", "bad salary", "market pay",
+      "market rate", "competitive pay"
+    ],
+    "Management & Leadership": [
+      "management senior", "management poor", "management upper", "bad management", 
+      "management middle", "management team", "manager senior", "level management", 
+      "management people", "employee management", "high management", "manager people", 
+      "bad manager", "lack management", "manager team", "leader team", "decision making",
+      "management staff", "management micro", "employee manager", "change management",
+      "management terrible", "manager store", "line manager", "level manager",
+      "leadership senior", "leadership poor", "management style", "layer management",
+      "manager rude", "job manager", "management manager", "horrible management",
+      "leadership team", "lack leadership", "management support", "manager staff",
+      "management performance", "culture management", "hr management"
+    ],
+    "Career & Growth": [
+      "career progression", "career growth", "growth opportunity", "career opportunity", 
+      "growth slow", "career path", "career development", "advancement opportunity", 
+      "advancement career", "growth room", "limited opportunity", "opportunity promotion",
+      "mobility upward", "opportunity progression", "growth limited", "progression slow",
+      "career slow", "advancement room", "career limited", "promotion slow",
+      "little opportunity", "career lack"
+    ],
+    "Workplace Culture & Environment": [
+      "environment work", "customer rude", "high turnover", "red tape", "poor work", 
+      "office politic", "culture work", "people work", "internal politic", 
+      "staff turnover", "communication lack", "expectation high", "management time",
+      "performance review", "job security", "job people", "member staff",
+      "existent non", "member team", "hard work", "communication poor", "team work",
+      "difficult work", "heavy workload", "high stress", "low morale",
+      "boring work", "environment stressful", "internal process", "high staff turnover",
+      "rate turnover", "corporate culture", "bad culture", "bad people", "lack transparency",
+      "monotonous work", "lack support", "stressful work", "expectation unrealistic",
+      "lack training", "poor training", "old school", "environment working",
+      "high workload", "process slow", "decision slow", "process review", "hard hour"
+    ]
+  },
     "theme_map_pros": {
-      "Work-Life Balance & Flexibility": [
-        "balance life", "life work", "balance life work", "flexible hour", "flexible work", 
-        "flexible working", "home work", "great life work", "hour working", "hour work", 
-        "flexible schedule", "balance work", "flexibility work", "balance great", 
-        "flexible hour working", "balance great life", "schedule work"
-      ],
-      "People & Culture": [
-        "great people", "nice people", "people smart", "great team", "co worker", 
-        "friendly staff", "friendly people", "culture work", "culture great", 
-        "culture people", "environment friendly", "colleague great", "team work", 
-        "environment nice", "people work", "employee friendly", "amazing people", 
-        "great staff", "colleague friendly", "atmosphere great", "colleague nice", 
-        "environment people", "people talented", "people team"
-      ],
-      "Benefits & Perks": [
-        "benefit great", "food free", "benefit pay", "discount staff", "benefit employee", 
-        "benefit package", "benefit work", "benefit excellent", "benefit people", 
-        "benefit decent", "benefit health", "great perk"
-      ],
-      "Compensation": [
-        "great pay", "benefit salary", "decent pay", "competitive salary", 
-        "great salary", "high salary"
-      ],
-      "Career & Development": [
-        "great opportunity", "career opportunity", "growth opportunity", 
-        "great training", "career great", "opportunity training", 
-        "development opportunity", "great learning", "career development", 
-        "career progression", "career growth", "opportunity people", 
-        "learning opportunity", "different opportunity", "career path", 
-        "exposure great"
-      ],
-      "Work Environment & Job Satisfaction": [
-        "environment work", "great work", "environment great", "environment working", 
-        "experience great", "interesting work", "easy job", "great management", 
-        "nice office", "environment great work", "great job", "great product", 
-        "easy work", "job security", "interesting project", "customer service", 
-        "management senior", "management team", "employee great", "environment team", 
-        "nice work", "brand great", "culture great work", "new technology"
-      ]
-    }
+    "Work-Life Balance & Flexibility": [
+      "balance life", "life work", "balance life work", "flexible hour", "flexible work", 
+      "flexible working", "home work", "great life work", "hour working", "hour work", 
+      "flexible schedule", "balance work", "flexibility work", "balance great", 
+      "flexible hour working", "balance great life", "schedule work", "great hour", 
+      "flexible hour work", "flexibility great", "flexible timing", "flexible time", 
+      "home option", "balance benefit life", "flexible schedule work", "flexibility home", 
+      "timing work", "flexible people", "balance culture life", "home office", 
+      "flexible shift", "available overtime", "time vacation"
+    ],
+    "People & Culture": [
+      "great people", "nice people", "people smart", "great team", "co worker", 
+      "friendly staff", "friendly people", "culture work", "culture great", 
+      "culture people", "environment friendly", "colleague great", "team work", 
+      "environment nice", "people work", "employee friendly", "amazing people", 
+      "great staff", "colleague friendly", "atmosphere great", "colleague nice", 
+      "environment people", "people talented", "people team", "interesting people", 
+      "new people", "fun people", "benefit great people", "culture great people", 
+      "friendly team", "culture team", "atmosphere friendly", "co great worker", 
+      "friendly work", "nice staff", "friendly helpful", "nice team", "intelligent people", 
+      "coworker great", "amazing culture", "culture friendly", "atmosphere work", 
+      "supportive team", "spirit team", "lovely people", "colleague smart", "co great", 
+      "culture value", "friendly nice", "excellent people", "great people work", 
+      "friendly great", "culture open", "experience people", "co friendly worker", 
+      "helpful people", "awesome people", "group people", "fantastic people", "environment supportive",
+      "culture nice", "atmosphere nice", "culture strong", "employee great", "environment team", "great people smart"
+    ],
+    "Benefits & Perks": [
+      "benefit great", "food free", "benefit pay", "discount staff", "benefit employee", 
+      "benefit package", "benefit work", "benefit excellent", "benefit people", 
+      "benefit decent", "benefit health", "great perk", "benefit compensation", 
+      "benefit opportunity", "health insurance", "benefit flexible", "amazing benefit", 
+      "free meal", "benefit perk", "free lunch", "discount great", "discount employee", 
+      "benefit environment", "food great", "benefit competitive", "benefit staff", 
+      "care health", "benefit medical", "benefit discount", "benefit flexibility", 
+      "benefit training", "benefit vacation", "discount food", "care employee", "benefit culture"
+    ],
+    "Compensation": [
+      "great pay", "benefit salary", "decent pay", "competitive salary", "great salary", 
+      "high salary", "competitive pay", "decent salary", "pay work", "pay people", 
+      "pay rate", "nice pay", "compensation great"
+    ],
+    "Career & Development": [
+      "great opportunity", "career opportunity", "growth opportunity", "great training", 
+      "career great", "opportunity training", "development opportunity", "great learning", 
+      "career development", "career progression", "career growth", "opportunity people", 
+      "learning opportunity", "different opportunity", "career path", "exposure great", 
+      "experience learning", "new opportunity", "advancement opportunity", "opportunity work", 
+      "program training", "opportunity plenty", "development professional", 
+      "curve learning", "excellent training", "development personal", "development training", 
+      "culture opportunity", "job opportunity", "opportunity progression", 
+      "environment opportunity", "entry level", "development learning", "client exposure", 
+      "new skill", "excellent opportunity", "opportunity travel", "different project", 
+      "opportunity project", "development great", "experience job", "environment learning", 
+      "career great opportunity", "advancement career", "experience opportunity", 
+      "growth room", "global opportunity", "opportunity team", "employee opportunity"
+    ],
+    "Work Environment & Job Satisfaction": [
+      "environment work", "great work", "environment great", "environment working", 
+      "experience great", "interesting work", "easy job", "great management", 
+      "nice office", "environment great work", "great job", "great product", 
+      "easy work", "job security", "interesting project", 
+      "management senior", "management team", 
+      "nice work", "brand great", "culture great work", "new technology", 
+      "excellent work", "great office",
+      "great manager", "environment fun", "great time", "great leadership", 
+      "client great", "fun work", "great support", "great technology", "ethic work", 
+      "atmosphere work", "location office", "great project", 
+      "culture life work", "culture working", "challenging work", 
+      "corporate culture", "culture employee", "customer great", 
+      "late technology", "environment professional", "great working", "friendly management", 
+      "environment office", "decent work", "fast pace", "manager team", 
+      "condition working", "edge technology", "high quality", 
+      "management supportive", "management upper", "management staff", "management work", 
+      "manager nice", "brand value"
+    ]
   }
+}

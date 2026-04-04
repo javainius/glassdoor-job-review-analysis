@@ -1,0 +1,20 @@
+pros and cons sudaryti kategorijas ir pazymeti zemelapyje kur kokie pros and kur kokie cons yra dazniausi
+pagal imoniu kilme suskirstyti, kurios imones turi geriausius atsiliepimus (is kuriu saliu, kuriu yra kilusios)
+pasiziuret kokia koreliacija yra tarp rate'ingu ir ar anoniminis darbuotojas, ar ne. kokie vertinimu vidurkiai abiem atvejais
+
+
+
+
+analizei:
+    pakist keywordus (ngramas) po konkreciom kategorijom ir juos susumuot histogramai sudaryti
+    tada tas temas priskirt atitinkamom eilutem. t.y. jeigu keywordai (ngrama) yra atitinkamoj eilutej, tumet 
+    priskirti tema
+    padaryt kiekvienos temos word cloudus
+    padaryt skiringas histogramas zmonems isdirbusiems maziau nei metus, zmonems isdirbusiems iki 3 metu ir zmonems isdirbusiems daugiau nei 10 metu.
+    chartai:
+    former employees worked > 1 year. What they value the most?
+    current employees works < 3 years
+
+%APPDATA%\Cursor
+
+The Truth Behind 800,000 Job Reviews: Why They Stay vs. Why They Leave
