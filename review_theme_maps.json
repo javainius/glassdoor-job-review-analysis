@@ -16,7 +16,8 @@
         "management senior", "management poor", "management upper", "bad management", 
         "management middle", "management team", "manager senior", "level management", 
         "management people", "employee management", "high management", "manager people", 
-        "bad manager", "lack management", "manager team", "leader team", "decision making"
+        "bad manager", "lack management", "manager team", "leader team", "decision making",
+        "management staff"
       ],
       "Career & Growth": [
         "career progression", "career growth", "growth opportunity", "career opportunity", 
@@ -26,9 +27,9 @@
       "Workplace Culture & Environment": [
         "environment work", "customer rude", "high turnover", "red tape", "poor work", 
         "office politic", "culture work", "people work", "internal politic", 
-        "staff turnover", "communication lack", "expectation high",
-        "performance review", "job security", "job people", 
-        "existent non", "member team", "member staff"
+        "staff turnover", "communication lack", "expectation high", "management time",
+        "performance review", "job security", "job people", "member staff",
+        "existent non", "member team", "member staff", "hard work"
       ]
     },
     "theme_map_pros": {
