@@ -16,5 +16,8 @@ analizei:
     current employees works < 3 years
 
 %APPDATA%\Cursor
+Code Cache
+Code CachedData
+Code/Backups
 
 The Truth Behind 800,000 Job Reviews: Why They Stay vs. Why They Leave
