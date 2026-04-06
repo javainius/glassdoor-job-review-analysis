@@ -26,7 +26,7 @@ Why do employees leave within their first year, and what makes veterans stay for
 1.  **Text Preprocessing:** Raw review data was cleaned and lemmatized using `spaCy` to ensure linguistic accuracy and eliminate noise.
 2.  **Feature Extraction:** Generated **bi-grams** and **tri-grams** to capture critical context (e.g., *"work-life balance"*, *"toxic environment"*) that single words often miss.
 3.  **Thematic Mapping:** Developed a custom **JSON-based mapping system** to categorize the **Top 300 n-grams** into 6 "Pros" and 5 "Cons" strategic business themes.
-4.  **Segmented Analysis:** Filtered data into four distinct cohorts (**1, 3, 5, and 10-year tenure**) to identify shifting motivations.
+4.  **Segmented Analysis:** Filtered data into four distinct segments (**1, 3, 5, and 10-year tenure**) to identify shifting motivations.
 
 ---
 
@@ -50,12 +50,12 @@ My analysis suggests that companies should shift their focus from financial ince
 
 ## 🚀 Installation & Usage
 
-# Clone the repository and navigate to the project folder
+### Clone the repository and navigate to the project folder
 git clone https://github.com/yourusername/glassdoor-analysis.git
 cd glassdoor-analysis
 
-# Install required Python libraries
+### Install required Python libraries
 pip install pandas spacy scikit-learn kagglehub tqdm
 
-# Download the NLP model for spaCy
+### Download the NLP model for spaCy
 python -m spacy download en_core_web_sm
