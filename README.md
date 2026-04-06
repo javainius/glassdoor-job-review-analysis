@@ -4,6 +4,8 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![spaCy](https://img.shields.io/badge/spaCy-%2309A3D5.svg?style=for-the-badge&logo=spacy&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white) 
+**[Glassdoor Job Reviews Dataset](https://www.kaggle.com/datasets/davidgauthier/glassdoor-job-reviews/)**
 
 ## 📌 Project Overview
 Why do employees leave within their first year, and what makes veterans stay for a decade? This project leverages **Natural Language Processing (NLP)** to analyze over **800,000 free-text Glassdoor reviews**, mapping the evolution of employee priorities across different career stages.
