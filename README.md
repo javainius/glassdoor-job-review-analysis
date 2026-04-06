@@ -5,6 +5,7 @@
 ![spaCy](https://img.shields.io/badge/spaCy-%2309A3D5.svg?style=for-the-badge&logo=spacy&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white) 
+
 **[Glassdoor Job Reviews Dataset](https://www.kaggle.com/datasets/davidgauthier/glassdoor-job-reviews/)**
 
 ## 📌 Project Overview
